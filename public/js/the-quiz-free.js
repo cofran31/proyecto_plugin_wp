@@ -1,0 +1,2 @@
+/* MyPlugin - Custom Login JavaScript */
+

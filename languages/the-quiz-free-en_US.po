@@ -1,0 +1,152 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Quiz Free\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-27 06:49+0000\n"
+"PO-Revision-Date: 2018-03-27 06:49+0000\n"
+"Last-Translator: cofran31 <cool3000bo@gmail.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: the-quiz-free.php:65
+msgid "Felicidades Termino la encuesta"
+msgstr ""
+
+#: the-quiz-free.php:74
+msgid "Debes seleccionar una respuesta!!"
+msgstr ""
+
+#: the-quiz-free.php:129
+msgid "Bienvenido por favor responda el Siguiente Cuestionario:"
+msgstr ""
+
+#: admin/admin-category.php:51
+msgid "Id Categoria"
+msgstr ""
+
+#: admin/admin-category.php:52
+msgid "Nombre Categoria"
+msgstr ""
+
+#: admin/admin-category.php:53
+msgid "Opciones"
+msgstr ""
+
+#: admin/admin-category.php:77 admin/admin-category.php:94
+#: admin/admin-category.php:105 admin/admin-question.php:182
+msgid "Ocurrio un error verifique e intente nuevamente!!"
+msgstr ""
+
+#: admin/admin-category.php:80
+msgid "Categoria Insertada Exitosamente!!"
+msgstr ""
+
+#: admin/admin-category.php:84
+msgid "Usted debe ingresar una Categoria Valida!!"
+msgstr ""
+
+#: admin/admin-category.php:97
+msgid "Categoria Actualizada Exitosamente!!"
+msgstr ""
+
+#: admin/admin-category.php:108
+msgid "Categoria Eliminada Exitosamente!!"
+msgstr ""
+
+#: admin/admin-forms.php:13
+msgid ""
+"Bienvenido a The Quiz Free, crea tus encuestas de la forma mas sencilla e "
+"insertalas en tus Post favoritos."
+msgstr ""
+
+#: admin/admin-forms.php:21
+msgid "Inserte el Nombre de la nueva Categoria de la Encuesta:"
+msgstr ""
+
+#: admin/admin-forms.php:37
+msgid "Modifique la Categoria:"
+msgstr ""
+
+#: admin/admin-forms.php:52
+msgid "Categoria Seleccionada:"
+msgstr ""
+
+#: admin/admin-forms.php:58
+msgid "Pregunta:"
+msgstr ""
+
+#: admin/admin-forms.php:77
+msgid "Respuestas:"
+msgstr ""
+
+#: admin/admin-forms.php:80
+msgid "Respuesta Correcta:"
+msgstr ""
+
+#: admin/admin-forms.php:114
+msgid ""
+"Atencion: Usted debe ingresar minimamente 2 respuestas y maximo 4. Ademas "
+"debe seleccionar la respuesta correcta."
+msgstr ""
+
+#. Name of the plugin
+#: admin/admin-menu.php:19 admin/admin-menu.php:21 admin/admin-menu.php:23
+msgid "The Quiz Free"
+msgstr ""
+
+#: admin/admin-menu.php:21
+msgid "Nuevo Cuestionario"
+msgstr ""
+
+#: admin/admin-menu.php:23
+msgid "Gestion de Preguntas"
+msgstr ""
+
+#: admin/admin-question.php:68
+msgid "Debe Tickear la respuesta correcta"
+msgstr ""
+
+#: admin/admin-question.php:71
+msgid "Usted debe escribir una pregunta."
+msgstr ""
+
+#: admin/admin-question.php:95
+msgid "Usted debe escribir al menos 2 respuestas."
+msgstr ""
+
+#: admin/admin-question.php:142
+msgid "Debe Tickear la respuesta correcta, en una pregunta válida."
+msgstr ""
+
+#: admin/admin-question.php:171
+msgid "Pregunta insertada correctamente!!"
+msgstr ""
+
+#: admin/admin-question.php:174
+msgid "Verifique los siguientes Errores:!!"
+msgstr ""
+
+#: admin/admin-question.php:185
+msgid "Pregunta Eliminada Exitosamente!!"
+msgstr ""
+
+#: admin/admin-question.php:202
+msgid "Lista de Preguntas de la Categoria:"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin para realizar encuestas Online."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://facebook.com/carlos.ortube"
+msgstr ""
+
+#. Author of the plugin
+msgid "Juan Carlos Ortube"
+msgstr ""

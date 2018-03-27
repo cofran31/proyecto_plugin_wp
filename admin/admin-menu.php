@@ -16,11 +16,11 @@ if (!class_exists("AdminMenu")) {
 
         public function menu_submenu() {
 
-            add_menu_page('The Quiz Free', esc_html__('The Quiz Free'), 'manage_options', 'the-quiz-free', 'acerca_de');
+            add_menu_page('The Quiz Free', esc_html__('The Quiz Free','the-quiz-free'), 'manage_options', 'the-quiz-free', 'acerca_de');
             $cat = new AdminCategory();
-            add_submenu_page('the-quiz-free', esc_html__('The Quiz Free'), esc_html__('Nuevo Cuestionario'), 'manage_options', 'my-top-level-slug', array($cat, 'admin_categoria'));
+            add_submenu_page('the-quiz-free', esc_html__('The Quiz Free','the-quiz-free'), esc_html__('Nuevo Cuestionario','the-quiz-free'), 'manage_options', 'my-top-level-slug', array($cat, 'admin_categoria'));
             $que = new AdminQuestion();
-            add_submenu_page('the-quiz-free', esc_html__('The Quiz Free'), esc_html__('Gestion de Preguntas'), 'manage_options', 'my-secondary-slug', array($que, 'admin_question'));
+            add_submenu_page('the-quiz-free', esc_html__('The Quiz Free','the-quiz-free'), esc_html__('Gestion de Preguntas','the-quiz-free'), 'manage_options', 'my-secondary-slug', array($que, 'admin_question'));
         }
 
     }

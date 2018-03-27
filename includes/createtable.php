@@ -33,8 +33,8 @@ if (!class_exists("CreateTable")) {
             $create_table_user = "
             CREATE TABLE IF NOT EXISTS `{$wpdb->prefix}plugin_quiz_users` (
               `id` int(9) NOT NULL PRIMARY KEY AUTO_INCREMENT,
+              `id_jugador` varchar(200) NOT NULL ,
               `id_question` int(9) NOT NULL ,
-              `type` text NOT NULL,
               `valid_answer` text NOT NULL
             ) ENGINE=InnoDB  DEFAULT CHARSET=utf8;";
 
