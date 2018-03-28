@@ -1,14 +1,14 @@
 # The-quiz-free
 <p align="center"><img src="http://200.107.241.6/wp/dos.png"></p>
-### Plugin Name:  The-quiz-free 
-### Description:  Example plugin for the video tutorial series, "WordPress: Plugin Development", available at Lynda.com.
-### Plugin URI:   https://profiles.wordpress.org/specialk
-### Author:       Juan Carlos Ortube Lahor
-### Version:      1.0
-### Text Domain:  The-quiz-free
-### Domain Path:  /languages
-### License:      GPL v2 or later
-### License URI:  https://www.gnu.org/licenses/gpl-2.0.txt
+<p> Plugin Name:  The-quiz-free </p>
+<p> Description:  Example plugin for the video tutorial series, "WordPress: Plugin Development", available at Lynda.com.</p>
+<p> Plugin URI:   https://profiles.wordpress.org/specialk </p>
+<p> Author:       Juan Carlos Ortube Lahor </p>
+<p> Version:      1.0 </p>
+<p> Text Domain:  The-quiz-free </p>
+<p> Domain Path:  /languages </p>
+<p> License:      GPL v2 or later</p>
+<p> License URI:  https://www.gnu.org/licenses/gpl-2.0.txt</p>
 
 <p>
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
