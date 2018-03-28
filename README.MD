@@ -1,5 +1,5 @@
 # The-quiz-free
-
+<p align="center"><img src="http://200.107.241.6/wp/dos.png"></p>
 * Plugin Name:  The-quiz-free 
 * Description:  Example plugin for the video tutorial series, "WordPress: Plugin Development", available at Lynda.com.
 * Plugin URI:   https://profiles.wordpress.org/specialk
@@ -9,6 +9,13 @@
 * Domain Path:  /languages
 * License:      GPL v2 or later
 * License URI:  https://www.gnu.org/licenses/gpl-2.0.txt
+
+<p>
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+</p>
 
 ## Description
 Este complemento le permite hacer un sistema de encuestas rápidas para verificar la calidad de su página web.
